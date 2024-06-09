@@ -1,5 +1,5 @@
 function odliczanie()
-	{
+{
 		var dzisiaj = new Date();
 		
 		var dzien = dzisiaj.getDate();
