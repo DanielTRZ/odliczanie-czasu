@@ -1,6 +1,6 @@
 function odliczanie()
 {
-		var dzisiaj = new Date();
+var dzisiaj = new Date();
 		
 		var dzien = dzisiaj.getDate();
 		var miesiac = dzisiaj.getMonth()+1;
