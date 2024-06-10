@@ -3,7 +3,7 @@ function odliczanie()
 var dzisiaj = new Date();
 		
 var dzien = dzisiaj.getDate();
-		var miesiac = dzisiaj.getMonth()+1;
+var miesiac = dzisiaj.getMonth()+1;
 		var rok = dzisiaj.getFullYear();
 		
 		var godzina = dzisiaj.getHours();
