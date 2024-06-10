@@ -6,7 +6,7 @@ var dzien = dzisiaj.getDate();
 var miesiac = dzisiaj.getMonth()+1;
 var rok = dzisiaj.getFullYear();
 		
-		var godzina = dzisiaj.getHours();
+var godzina = dzisiaj.getHours();
 		if (godzina<10) godzina = "0"+godzina;
 		
 		var minuta = dzisiaj.getMinutes();
