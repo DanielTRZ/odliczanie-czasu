@@ -16,4 +16,4 @@ document.getElementById("zegar").innerHTML =
 dzien+"/"+miesiac+"/"+rok+" | "+godzina+":"+minuta+":"+sekunda;
 		 
 setTimeout("odliczanie()",1000);
-	}
+}
